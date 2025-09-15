@@ -169,17 +169,19 @@
 #
 # print(10 > 5)
 
-user_input = float(input("Enter a number: >>  "))
-print(user_input)
-cast_int = int(user_input)
-print(cast_int)
+# Task 1
+user_input = float(input("Enter a number: >>  ")) #input a number & cast as float
+cast_int = int(user_input / 3) #divide user_input float & cast to int
+print(cast_int) #print int
 
-name = str(input("Enter your name: >> "))
-print("Hello" + " " + name)
+# task 2
+name = str(input("Enter your name: >> ")) #input username
+print("Hello" + " " + name) #print hello message with username
 
-height = int(input("Pls enter rectangle height >> "))
-width = int(input("Pls enter rectangle width >> "))
-print("The area is ", height * width)
+# task 3
+height = int(input("Pls enter rectangle height (cm) >> ")) # input height value
+width = int(input("Pls enter rectangle width (cm) >> ")) # input width value
+print("The area is ", height * width, "Square cm") #prrint area by multiply height & width together
 
 
 
