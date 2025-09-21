@@ -1,20 +1,38 @@
-#README.md file
-#Californian Housing Research Data
+#README
 
-##Project Information
+# **PENGUINS DATA EXPLORED**
 
-##Scatterplot
-The scatterplot show that people with median income do not live where the house prices are also median. and those closer to the ocean are unaffordalble
+### ***Python for Data - Liam Final Project***
 
-##Boxplot
-The boxplot data re-enforces that the lower the median income is, the further inland they live.
+### Brief outline of information covered in the project documentation.
 
-##Histplot
-The histplot show that the media income is around £25000 
-with the curve of high earners falling away sharply indicating that wages are low in this area.
+## **1. Countplot**
+### Distribution of penguins by species and island
 
-##Barplot
-The barplot supports the trend that the further a house is from inland the more expensive it is. Beginning around £190000
+## **2. Boxplot**
+### Penguin by body mass and sex
 
-##Heatmap
-The heatmap support the research suggests that despite being more expensive more expensive housing has fewer bedrooms
+
+## **3. Scatterplot**
+### Relationship between flipper length and body mass
+
+## **4. Jointplot**
+### Bill Length vs Bill Depth by Species. 
+
+## **5. Implot**
+### Bill Length vs Bill Depth by Species with Trend Lines
+
+## **6. Heatmap**
+### Correlation Between Penguin Measurements
+
+## Resources:
+- README.MD
+- liam_final_project.ipynb
+- penguins_data_
+
+[Github link to resources](https://github.com/locobean/skills2)
+
+NB: No Linux Tux Penguins were included in this dataset.
+
+
+
