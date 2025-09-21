@@ -1,6 +1,7 @@
 #README
 
-# **PENGUINS DATA EXPLORED**
+# **PENGUINS DATA**
+## What does it tell us?
 
 ### ***Python for Data - Liam Final Project***
 
@@ -28,9 +29,10 @@
 ## Resources:
 - README.MD
 - liam_final_project.ipynb
-- penguins_data_
+- penguins_dataset
 
 [Github link to resources](https://github.com/locobean/skills2)
+https://github.com/locobean/skills2
 
 NB: No Linux Tux Penguins were included in this dataset.
 
