@@ -1,6 +1,6 @@
 #README
 
-# **PENGUINS DATA**
+# **PENGUIN DATASET**
 ## What does it tell us?
 
 ### ***Python for Data - Liam Final Project***
