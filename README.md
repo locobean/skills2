@@ -4,7 +4,6 @@
 ## What does it tell us?
 
 ### ***Python for Data - Liam Final Project***
-
 ### Brief outline of information covered in the project documentation.
 
 ## **1. Countplot**
